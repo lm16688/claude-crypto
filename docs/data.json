@@ -1,0 +1,183 @@
+{
+  "updated_at": "2025-01-01T00:00:00Z",
+  "coins": [
+    {
+      "id": "bitcoin",
+      "type": "mainstream",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "emoji": "₿",
+      "image_url": "https://assets.coingecko.com/coins/images/1/small/bitcoin.png",
+      "price": 98500,
+      "market_cap": 1950000000000,
+      "created_at": "2009年1月",
+      "narrative_tags": ["PoW", "数字黄金", "OG"],
+      "story": "中本聪于2009年创建的第一个去中心化数字货币，被称为「数字黄金」。近期机构持续流入，ETF获批带来大量新资金，叙事从投机工具转变为价值存储资产。",
+      "heat_score": 95,
+      "holders": 50000000,
+      "mentions_24h": 250000,
+      "trend_24h_pct": 12.5,
+      "top_posts": [
+        {
+          "author": "elonmusk",
+          "content": "The people have spoken. Bitcoin to the moon 🚀",
+          "likes": 180000,
+          "retweets": 42000,
+          "replies": 15000,
+          "url": "https://x.com"
+        },
+        {
+          "author": "saylor",
+          "content": "MicroStrategy just acquired 2,530 BTC for ~$243.0M at ~$96,000 per bitcoin.",
+          "likes": 62000,
+          "retweets": 18000,
+          "replies": 4200,
+          "url": "https://x.com"
+        }
+      ]
+    },
+    {
+      "id": "ethereum",
+      "type": "mainstream",
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "emoji": "⟠",
+      "image_url": "https://assets.coingecko.com/coins/images/279/small/ethereum.png",
+      "price": 3450,
+      "market_cap": 415000000000,
+      "created_at": "2015年7月",
+      "narrative_tags": ["Layer 1", "DeFi", "ETH生态"],
+      "story": "智能合约平台的开创者，DeFi、NFT和Web3的基础设施。以太坊转向PoS后更加环保，Layer 2生态日趋繁荣，近期ETF获批利好持续发酵。",
+      "heat_score": 88,
+      "holders": 25000000,
+      "mentions_24h": 180000,
+      "trend_24h_pct": 8.3,
+      "top_posts": [
+        {
+          "author": "VitalikButerin",
+          "content": "Ethereum is becoming the global settlement layer. The next chapter begins.",
+          "likes": 45000,
+          "retweets": 12000,
+          "replies": 5000,
+          "url": "https://x.com"
+        }
+      ]
+    },
+    {
+      "id": "solana",
+      "type": "mainstream",
+      "name": "Solana",
+      "symbol": "SOL",
+      "emoji": "◎",
+      "image_url": "https://assets.coingecko.com/coins/images/4128/small/solana.png",
+      "price": 188,
+      "market_cap": 88000000000,
+      "created_at": "2020年3月",
+      "narrative_tags": ["Layer 1", "高性能", "Meme基地"],
+      "story": "以超高速度和低手续费著称的公链，已成为Meme币和NFT的主要战场。Trump概念币TRUMP在Solana上发行后爆火，带动整个Solana生态热度飙升。",
+      "heat_score": 82,
+      "holders": 5000000,
+      "mentions_24h": 120000,
+      "trend_24h_pct": 22.1,
+      "top_posts": [
+        {
+          "author": "anatoly_yakovenko",
+          "content": "Solana just hit 65,000 TPS in real world conditions. We're just getting started.",
+          "likes": 28000,
+          "retweets": 8000,
+          "replies": 2100,
+          "url": "https://x.com"
+        }
+      ]
+    },
+    {
+      "id": "dogecoin",
+      "type": "meme",
+      "name": "Dogecoin",
+      "symbol": "DOGE",
+      "emoji": "🐕",
+      "image_url": "https://assets.coingecko.com/coins/images/5/small/dogecoin.png",
+      "price": 0.38,
+      "market_cap": 56000000000,
+      "created_at": "2013年12月",
+      "narrative_tags": ["动物币", "名人背书", "Meme"],
+      "story": "从玩笑硬币到市值百亿的传奇。马斯克多次公开支持，DOGE被视为「人民的货币」。随着马斯克入主政府，DOGE社区热度再度飙升。",
+      "heat_score": 90,
+      "holders": 6800000,
+      "mentions_24h": 95000,
+      "trend_24h_pct": 35.8,
+      "top_posts": [
+        {
+          "author": "elonmusk",
+          "content": "Dogecoin to the moon 🌕🐕",
+          "likes": 320000,
+          "retweets": 85000,
+          "replies": 42000,
+          "url": "https://x.com"
+        },
+        {
+          "author": "dogefather",
+          "content": "DOGE is the future of payments. Fast, cheap, fun.",
+          "likes": 18000,
+          "retweets": 5000,
+          "replies": 1200,
+          "url": "https://x.com"
+        }
+      ]
+    },
+    {
+      "id": "pepe",
+      "type": "meme",
+      "name": "Pepe",
+      "symbol": "PEPE",
+      "emoji": "🐸",
+      "image_url": "https://assets.coingecko.com/coins/images/29850/small/pepe-token.jpeg",
+      "price": 0.0000138,
+      "market_cap": 5800000000,
+      "created_at": "2023年4月",
+      "narrative_tags": ["文化币", "Meme", "社区驱动"],
+      "story": "基于互联网经典梗图「Pepe the Frog」创建，无任何实用价值却靠强大的文化认同野蛮生长。2024年一度进入全球市值前10，是Meme币史上最成功的案例之一。",
+      "heat_score": 78,
+      "holders": 280000,
+      "mentions_24h": 68000,
+      "trend_24h_pct": -5.2,
+      "top_posts": [
+        {
+          "author": "pepe_unchained",
+          "content": "PEPE will never die. We are the internet. We are the culture. 🐸",
+          "likes": 22000,
+          "retweets": 6800,
+          "replies": 3200,
+          "url": "https://x.com"
+        }
+      ]
+    },
+    {
+      "id": "trump",
+      "type": "meme",
+      "name": "Official Trump",
+      "symbol": "TRUMP",
+      "emoji": "🦅",
+      "image_url": "https://assets.coingecko.com/coins/images/35003/small/trump.png",
+      "price": 12.4,
+      "market_cap": 2480000000,
+      "created_at": "2025年1月",
+      "narrative_tags": ["名人背书", "政治Meme", "社区驱动"],
+      "story": "特朗普本人官方发行的Meme币，上线即爆炸式增长，市值一度超百亿美元。作为现任美国总统发行的加密货币，引发全球广泛关注和争议，社区热度极高。",
+      "heat_score": 96,
+      "holders": 850000,
+      "mentions_24h": 210000,
+      "trend_24h_pct": 18.6,
+      "top_posts": [
+        {
+          "author": "realDonaldTrump",
+          "content": "Trump Official Meme is here! Be part of the movement. TRUMP! 🇺🇸",
+          "likes": 480000,
+          "retweets": 120000,
+          "replies": 85000,
+          "url": "https://x.com"
+        }
+      ]
+    }
+  ]
+}
